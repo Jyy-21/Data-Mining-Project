@@ -31,5 +31,5 @@ and “Basket_Size?
 The research of consumer trends has an impact on the business. This may arise some difficult-to-find elements that may aid the business flourish.
 
 # Documents
-<link="https://github.com/Jyy-21/Data-Mining-Project/blob/main/Project/Project.ipynb> here </link>
+<url="https://github.com/Jyy-21/Data-Mining-Project/blob/main/Project/Project.ipynb>here 
 
