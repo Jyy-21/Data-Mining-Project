@@ -3,8 +3,7 @@ This project is to profiling customers in a self-service coin laundry shop.
 
 # Introduction
 With the aid of the lecturer, we are provided with a dataset named LaundryData.csv that contains 19
-attributes showing customers appearance and behaviour in a self-service coin laundry shop. Luckily, by referring to data.gov.my. (2019) we have also found a supplementary dataset that contains some
-information about the daily rainfall amount for each state from 2014 until 2020. In this project, we must provide some interesting analysis utilising data mining techniques in conjunction with the data provided and acquired. The result will deployed & hosted on Heroku.
+attributes showing customers appearance and behaviour in a self-service coin laundry shop. Luckily, by referring to data.gov.my. (2019) we have also found a supplementary dataset that contains some information about the daily rainfall amount for each state from 2014 until 2020. In this project, we must provide some interesting analysis utilising data mining techniques in conjunction with the data provided and acquired. The result will deployed & hosted on Heroku.
 
 # Motivation
 Gathering data allows businesses to make more informed decisions on a regular basis. Data mining is crucial for recognizing patterns in customer habits or business needs. For example, keeping consistent data can provide information on when inventory will need to be replaced or understand when more staffing is needed to address consistent periods of higher customer volume. With data mining, businesses are better able to understand their demographic, develop personalized ads, and generate offers and incentives that will interest them most.
